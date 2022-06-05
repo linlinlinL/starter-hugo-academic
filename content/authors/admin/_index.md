@@ -12,12 +12,17 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
+    label: Contact
+    display:
+      header: true
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/zehui-lin-b2670b22b/
     label: Linkedin
+    display:
+      header: true
   - display:
-      header: false
+      header: true
     link: https://umass-my.sharepoint.com/personal/zehuilin_umass_edu/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fzehuilin%5Fumass%5Fedu%2FDocuments%2FPortfolio&ga=1
     label: Portfolio
     icon_pack: ai
