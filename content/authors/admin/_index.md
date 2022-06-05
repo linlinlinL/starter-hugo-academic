@@ -2,8 +2,10 @@
 title: Zehui Lin
 role: Master of Science, Computer Science
 avatar_filename: avatar.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include manipulating robot behaviors using
+  Reinforcement Learning, Unity/Unreal game programming using AI, deep learning
+  methods for 3D computer graphics and 3D computer vision, and algorithms for
+  data science.
 interests:
   - Robotics
 social:
