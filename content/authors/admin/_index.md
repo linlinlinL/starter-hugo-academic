@@ -25,7 +25,7 @@ organizations:
 education:
   courses:
     - course: Master, Computer Science
-      institution: University of Massachusetts, Amherst  MS
+      institution: University of Massachusetts, Amherst
       year: 2021
     - course: Bachelor, Information Engineering
       institution: Southern University of Science and Technology
