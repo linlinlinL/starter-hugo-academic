@@ -1,6 +1,7 @@
 ---
 title: Zehui Lin
 role: Master of Science, Computer Science
+avatar_filename: cropped-1622700003859_mh1622700405563.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
