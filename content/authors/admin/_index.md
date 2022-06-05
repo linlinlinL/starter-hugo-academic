@@ -7,7 +7,7 @@ bio: My research interests include manipulating robot behaviors using
   methods for 3D computer graphics and 3D computer vision, and algorithms for
   data science.
 interests:
-  - Robotics
+  - Robotics; Game Programming; Computer Vision; Computer Graphics
 social:
   - icon: envelope
     icon_pack: fas
