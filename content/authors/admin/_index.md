@@ -34,7 +34,7 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-Zehui Lin is a master's student from Umass Amherst. Her major is Computer Science. She is expected to be graduated in May 2023. Her research interests include robot mobile manipulation, Unity game programming, and intelligent visual computing. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Zehui Lin is a master's student from Umass Amherst. Her major is Computer Science. She is expected to be graduated in May 2023. Her interests include robot mobile manipulation, Unity/Unreal game programming, intelligent visual computing, and algorithms for data science. She has solid programming skills and can switch flexibly between multiple programming languages like Python, C/C++, C#, Java, and VHDL. She has strong self-motivation, taking online courses online like [Introduction to C++ Programming and Unreal](https://www.coursera.org/account/accomplishments/certificate/9E4JS5ZMLFLA) and [The Unix Workbench](https://www.coursera.org/account/accomplishments/certificate/UUEBVFUEPY5B) to enrich her technology stack with knowledge.
 
 林泽慧是一位就读于麻省大学阿默斯特分校计算机科学专业的硕士生，预计将于2023年5月毕业。 
 
