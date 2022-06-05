@@ -34,9 +34,13 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-Zehui Lin is a master's student from Umass Amherst. Her major is Computer Science. She is expected to be graduated in May 2023. Her interests include robot mobile manipulation, Unity/Unreal game programming, intelligent visual computing, and algorithms for data science. She has solid programming skills and can switch flexibly between multiple programming languages like Python, C/C++, C#, Java, and VHDL. She has strong self-motivation, taking online courses online like [Introduction to C++ Programming and Unreal](https://www.coursera.org/account/accomplishments/certificate/9E4JS5ZMLFLA) and [The Unix Workbench](https://www.coursera.org/account/accomplishments/certificate/UUEBVFUEPY5B) to enrich her technology stack. 
+Zehui Lin is a master's student from Umass Amherst. Her major is Computer Science. She is expected to be graduated in May 2023 and is now seeking a job after that. Her interests include manipulating robot behaviors using Reinforcement Learning, Unity/Unreal game programming using AI pathing planning, deep learning methods for 3D computer graphics and 3D computer vision, and algorithms for data science. She has solid programming skills and can switch flexibly between multiple programming languages like Python, C/C++, C#, Java, and VHDL. She has strong self-motivation, taking online courses like [Introduction to C++ Programming and Unreal](https://www.coursera.org/account/accomplishments/certificate/9E4JS5ZMLFLA) and [The Unix Workbench](https://www.coursera.org/account/accomplishments/certificate/UUEBVFUEPY5B) to enrich her technology stack. 
 
-Anticipations for the future company: having a happy and harmonious atmosphere between colleagues, willing to take social responsibility, and aiming to be the world changing leader of the times.
+Anticipate joining a team: 
+
+* with a happy and harmonious atmosphere between colleagues
+* willing to take social responsibility
+* aiming to be the world-changing leader of the times
 
 林泽慧是一位就读于麻省大学阿默斯特分校计算机科学专业的硕士生，预计将于2023年5月毕业。 
 
