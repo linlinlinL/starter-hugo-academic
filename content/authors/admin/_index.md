@@ -15,11 +15,12 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/zehui-lin-b2670b22b/
+    label: Linkedin
   - display:
       header: false
     link: https://umass-my.sharepoint.com/personal/zehuilin_umass_edu/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fzehuilin%5Fumass%5Fedu%2FDocuments%2FPortfolio&ga=1
-    label: ""
-    icon_pack: far
+    label: Portfolio
+    icon_pack: ai
     icon: icon
 organizations:
   - name: "University of Massachusetts, Amherst ( CSRankings: world #23)"
