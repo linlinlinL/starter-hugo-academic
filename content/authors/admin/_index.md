@@ -10,18 +10,15 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: graduation-cap
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/zehui-lin-b2670b22b/
+  - display:
+      header: false
+    link: https://umass-my.sharepoint.com/personal/zehuilin_umass_edu/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fzehuilin%5Fumass%5Fedu%2FDocuments%2FPortfolio&ga=1
+    label: Portfolio
+    icon_pack: fab
+    icon: Portfolio
 organizations:
   - name: "University of Massachusetts, Amherst ( CSRankings: world #23)"
     url: ""
