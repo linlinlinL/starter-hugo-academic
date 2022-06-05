@@ -18,9 +18,9 @@ social:
   - display:
       header: false
     link: https://umass-my.sharepoint.com/personal/zehuilin_umass_edu/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fzehuilin%5Fumass%5Fedu%2FDocuments%2FPortfolio&ga=1
-    label: Portfolio
+    label: ""
     icon_pack: far
-    icon: Portfolio
+    icon: face
 organizations:
   - name: "University of Massachusetts, Amherst ( CSRankings: world #23)"
     url: ""
