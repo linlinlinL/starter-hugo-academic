@@ -34,7 +34,7 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-Zehui Lin is a master's student from Umass Amherst. Her major is Computer Science. The expect graduating date is May 2023. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Zehui Lin is a master's student from Umass Amherst. Her major is Computer Science. She is expected to be graduated in May 2023. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
 林泽慧是一位就读于麻省大学阿默斯特分校计算机科学专业的硕士生，预计将于2023年5月毕业。 
 
