@@ -37,7 +37,7 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-Zehui Lin is a master's student from Umass Amherst. Her major is Computer Science. She is expected to be graduated in May 2023 and is now seeking a job after that. Her interests include manipulating robot behaviors using Reinforcement Learning, Unity/Unreal game programming using AI, deep learning methods for 3D computer graphics and 3D computer vision, and algorithms for data science. She has solid programming skills and can switch flexibly between multiple programming languages like Python, C/C++, C#, Java, and VHDL. She has strong self-motivation in working and learning, so she can usually get started fast.
+* Zehui Lin is a master's student from Umass Amherst. Her major is Computer Science. She is expected to be graduated in May 2023 and is now seeking a job after that. Her interests include manipulating robot behaviors using Reinforcement Learning, Unity/Unreal game programming using AI, deep learning methods for 3D computer graphics and 3D computer vision, and algorithms for data science. She has solid programming skills and can switch flexibly between multiple programming languages like Python, C/C++, C#, Java, and VHDL. She has strong self-motivation in working and learning, so she can usually get started fast.
 
 Anticipate joining a team: 
 
