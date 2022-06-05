@@ -39,6 +39,6 @@ highlight_name: true
 ---
 Zehui Lin is a master's student from Umass Amherst. Her major is Computer Science. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
-林泽慧是一位就读于麻省大学阿默斯特分校计算机科学专业的硕士生。 
+林泽慧是一位就读于麻省大学阿默斯特分校（CSRankings：全球23'）计算机科学专业的硕士生。 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
